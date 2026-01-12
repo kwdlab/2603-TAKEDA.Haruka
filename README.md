@@ -12,12 +12,20 @@ By unifying all inputs into Unicode + UTF-8 + NFC before hash generation, this i
 Both HTTP Basic authentication and HTTP Digest authentication are supported through the tools ihtpasswd and ihtdigest.
 
 # Requirements
-C
+Ubuntu 24.04 LTS
+
+GCC 13.3.0
+
+GNU Make 4.3
+
+APR, libiconv
+
+Apache HTTP Server / nginx
 
 # Author
 Haruka Takeda
 
-# Reference
+# References
 Apache HTTP Server
 https://httpd.apache.org/
 
@@ -27,7 +35,7 @@ https://www.rfc-editor.org/rfc/rfc7617
 RFC 7616: HTTP Digest Access Authentication
 https://www.rfc-editor.org/rfc/rfc7616
 
-iconv
+GNU iconv
 https://www.gnu.org/software/libiconv/
 
 # License
