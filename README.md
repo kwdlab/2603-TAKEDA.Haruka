@@ -20,14 +20,18 @@ Haruka Takeda
 # Reference
 Apache HTTP Server
 https://httpd.apache.org/
+
 RFC 7617: The 'Basic' HTTP Authentication Scheme
 https://www.rfc-editor.org/rfc/rfc7617
+
 RFC 7616: HTTP Digest Access Authentication
 https://www.rfc-editor.org/rfc/rfc7616
+
 iconv
 https://www.gnu.org/software/libiconv/
 
 # License
 Apache License, Version 2.0
+
 iconv (GNU libiconv), LGPL-2.1-or-later
 
