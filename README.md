@@ -1,5 +1,5 @@
 # 2603-TAKEDA.Haruka
-2026年3月卒業  竹田晴香
+
 
 # Overview
 This project provides internationalized implementations of the Apache htpasswd and htdigest utilities.
